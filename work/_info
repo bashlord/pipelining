@@ -1,0 +1,771 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Daniel\Desktop\cse141\core\lab1
+valu
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 DXx4 work 11 alu_sv_unit 0 22 =JC@hzVIM^UA70F3GTJ3I0
+Z3 VI7lk`SQ8Za@A6?2c<@gWI2
+r1
+31
+Z4 !s100 IE^NR4MedoRl;j=<5AUg]0
+Z5 IGR6WHQS6Ya9F6kj0dDG8E1
+Z6 !s105 alu_sv_unit
+S1
+Z7 dC:\Users\Daniel\Desktop\cse141lfinallab3
+Z8 w1426878964
+Z9 8C:/Users/Daniel/Desktop/cse141lfinallab3/alu.sv
+Z10 FC:/Users/Daniel/Desktop/cse141lfinallab3/alu.sv
+L0 4
+Z11 OV;L;10.1e;51
+Z12 !s108 1426879232.195000
+Z13 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/alu.sv|
+Z14 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/alu.sv|
+Z15 o-work work -sv -O0
+!s85 0
+!i10b 1
+!s101 -O0
+Xalu_sv_unit
+R1
+Z16 V=JC@hzVIM^UA70F3GTJ3I0
+r1
+31
+Z17 !s100 =2?6LAli<]F1EQPFbf9=_1
+Z18 I=JC@hzVIM^UA70F3GTJ3I0
+S1
+R7
+R8
+R9
+R10
+Z19 Fdefinitions.sv
+L1 54
+R11
+R12
+R13
+R14
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vcl_decode
+R1
+Z20 DXx4 work 17 cl_decode_sv_unit 0 22 _@m1]A]Z=2ok1c;R65<S`3
+Z21 Vj2XdPkIgM0O^Hn@`n`AWZ1
+r1
+31
+Z22 !s100 CSoW^WSjH`j?dDC=]Zi5d3
+Z23 INRl;cocm;I0[b@HA`N>^W0
+Z24 !s105 cl_decode_sv_unit
+S1
+R7
+Z25 w1426834123
+Z26 8C:/Users/Daniel/Desktop/cse141lfinallab3/cl_decode.sv
+Z27 FC:/Users/Daniel/Desktop/cse141lfinallab3/cl_decode.sv
+L0 4
+R11
+Z28 !s108 1426879232.446000
+Z29 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/cl_decode.sv|
+Z30 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/cl_decode.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xcl_decode_sv_unit
+R1
+Z31 V_@m1]A]Z=2ok1c;R65<S`3
+r1
+31
+Z32 !s100 YknkE6=RD^N1eFOHjLQh03
+Z33 I_@m1]A]Z=2ok1c;R65<S`3
+S1
+R7
+Z34 w1426835176
+R26
+R27
+R19
+L1 54
+R11
+R28
+R29
+R30
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vcl_state_machine
+R1
+Z35 DXx4 work 24 cl_state_machine_sv_unit 0 22 D87^]g5CJeQJAWd7cTicV1
+Z36 V_HO6g@<O=0IE^>?5Z5=h`1
+r1
+31
+Z37 !s100 MOI?IJN]4>YWZeL@2F2MQ0
+Z38 IXRH5gDP9InK0RCQ;k6dZ<2
+Z39 !s105 cl_state_machine_sv_unit
+S1
+R7
+Z40 w1426879064
+Z41 8C:/Users/Daniel/Desktop/cse141lfinallab3/cl_state_machine.sv
+Z42 FC:/Users/Daniel/Desktop/cse141lfinallab3/cl_state_machine.sv
+L0 3
+R11
+Z43 !s108 1426879232.697000
+Z44 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/cl_state_machine.sv|
+Z45 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/cl_state_machine.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xcl_state_machine_sv_unit
+R1
+Z46 VD87^]g5CJeQJAWd7cTicV1
+r1
+31
+Z47 !s100 Ie<^TWMe[<EQSDR0a;R]N2
+Z48 ID87^]g5CJeQJAWd7cTicV1
+S1
+R7
+R40
+R41
+R42
+R19
+L1 54
+R11
+R43
+R44
+R45
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vcore
+R1
+Z49 DXx4 work 12 core_sv_unit 0 22 V[n_I7IQ_;P=POCLUlAVP0
+Z50 V8g;U8en<PLBg@@AL4CL>f3
+r1
+31
+Z51 I9bXMj9okCD?H4cN2khic?3
+Z52 !s105 core_sv_unit
+S1
+R7
+Z53 w1426879230
+Z54 8C:/Users/Daniel/Desktop/cse141lfinallab3/core.sv
+Z55 FC:/Users/Daniel/Desktop/cse141lfinallab3/core.sv
+L0 3
+R11
+Z56 !s108 1426879232.979000
+Z57 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/core.sv|
+Z58 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/core.sv|
+R15
+Z59 !s100 WSKYD9L:7P775;5Y^elHC1
+!s85 0
+!i10b 1
+!s101 -O0
+vcore_flattened
+R1
+Z60 DXx4 work 22 core_flattened_sv_unit 0 22 =>95M6>>cVEm^6JgU]`VV0
+Z61 V2R0=69R;zAfBGzKl1Q]2X0
+r1
+31
+Z62 !s100 2_^;[Co7]6gXiFzJjE^Bg1
+Z63 IAUc]YOR=J8:KAj>>bEQJD1
+Z64 !s105 core_flattened_sv_unit
+S1
+R7
+Z65 w1425826506
+Z66 8C:/Users/Daniel/Desktop/cse141lfinallab3/core_flattened.sv
+Z67 FC:/Users/Daniel/Desktop/cse141lfinallab3/core_flattened.sv
+L0 4
+R11
+Z68 !s108 1426879233.315000
+Z69 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/core_flattened.sv|
+Z70 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/core_flattened.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xcore_flattened_sv_unit
+R1
+Z71 V=>95M6>>cVEm^6JgU]`VV0
+r1
+31
+Z72 !s100 >m?Bm9AejJY=DGdOnLT3h3
+Z73 I=>95M6>>cVEm^6JgU]`VV0
+S1
+R7
+R34
+R66
+R67
+R19
+L1 54
+R11
+R68
+R69
+R70
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+Xcore_sv_unit
+R1
+Z74 VV[n_I7IQ_;P=POCLUlAVP0
+r1
+31
+Z75 !s100 HjUZnObSD=1BcRCcm?QOa1
+Z76 IV[n_I7IQ_;P=POCLUlAVP0
+S1
+R7
+R53
+R54
+R55
+R19
+L1 54
+R11
+R56
+R57
+R58
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vcore_tb
+R1
+Z77 DXx4 work 15 core_tb_sv_unit 0 22 I<Jj3?mDaSQinoWj_A9[<2
+Z78 VlN3iUPNV?OYGNgj@DJaoE2
+r1
+31
+Z79 !s100 ?laVC=31;h=V__RIUZ1iC0
+Z80 II;aA4C_YJ`^c@4<dI6oLH3
+Z81 !s105 core_tb_sv_unit
+S1
+R7
+Z82 w1426833321
+Z83 8C:/Users/Daniel/Desktop/cse141lfinallab3/core_tb.sv
+Z84 FC:/Users/Daniel/Desktop/cse141lfinallab3/core_tb.sv
+Z85 Fdisassemble.sv
+L0 17
+R11
+Z86 !s108 1426879233.551000
+Z87 !s107 disassemble.sv|definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/core_tb.sv|
+Z88 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/core_tb.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xcore_tb_sv_unit
+R1
+Z89 VI<Jj3?mDaSQinoWj_A9[<2
+r1
+31
+Z90 !s100 [UX>1BX90KY@c>h2ig]^B2
+Z91 II<Jj3?mDaSQinoWj_A9[<2
+S1
+R7
+R34
+R83
+R84
+R19
+L1 54
+R11
+R86
+R87
+R88
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vdata_mem
+R1
+Z92 DXx4 work 16 data_mem_sv_unit 0 22 CgMfV2kDiaz9W3A?dDBkz0
+Z93 VJTgBNdnj9c=zg80[gUozo3
+r1
+31
+Z94 !s100 iz9l[J[li:^HWXlJlY@WL1
+Z95 IlNLW<_?Ag2OlfXAEYKj[T0
+Z96 !s105 data_mem_sv_unit
+S1
+R7
+Z97 w1426835050
+Z98 8C:/Users/Daniel/Desktop/cse141lfinallab3/data_mem.sv
+Z99 FC:/Users/Daniel/Desktop/cse141lfinallab3/data_mem.sv
+L0 11
+R11
+Z100 !s108 1426879233.940000
+Z101 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/data_mem.sv|
+Z102 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/data_mem.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xdata_mem_sv_unit
+R1
+Z103 VCgMfV2kDiaz9W3A?dDBkz0
+r1
+31
+Z104 !s100 ^cPUM?SozFOzX81gWH09U2
+Z105 ICgMfV2kDiaz9W3A?dDBkz0
+S1
+R7
+R34
+R98
+R99
+R19
+L1 54
+R11
+R100
+R101
+R102
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vdecodeTOexecute
+R1
+Z106 DXx4 work 23 decodeTOexecute_sv_unit 0 22 ImHoA<RgiFV^WK75Vj@B42
+Z107 V<F>CWW<V6V<;hO`UE8jan0
+r1
+31
+Z108 !s100 _S>FHRc<m1FEDoF7G:UEe2
+Z109 Igl[[`HZ0;V_@g@I[?ahdJ3
+Z110 !s105 decodeTOexecute_sv_unit
+S1
+R7
+Z111 w1426835653
+Z112 8C:/Users/Daniel/Desktop/cse141lfinallab3/decodeTOexecute.sv
+Z113 FC:/Users/Daniel/Desktop/cse141lfinallab3/decodeTOexecute.sv
+L0 3
+R11
+Z114 !s108 1426879240.259000
+Z115 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/decodeTOexecute.sv|
+Z116 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/decodeTOexecute.sv|
+R15
+Z117 ndecode@t@oexecute
+!s85 0
+!i10b 1
+!s101 -O0
+XdecodeTOexecute_sv_unit
+R1
+Z118 VImHoA<RgiFV^WK75Vj@B42
+r1
+31
+Z119 !s100 ^bA5C3lF:^T[JC`doI@f^0
+Z120 IImHoA<RgiFV^WK75Vj@B42
+S1
+R7
+R111
+R112
+R113
+R19
+L1 54
+R11
+R114
+R115
+R116
+R15
+Z121 ndecode@t@oexecute_sv_unit
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+Xdefinitions_sv_unit
+R1
+Z122 !s100 d68VeOZASz6P[eV2Sz3m62
+Z123 I:PT=k4H?H]SD2dU_HJzWB2
+Z124 V:PT=k4H?H]SD2dU_HJzWB2
+S1
+R7
+R34
+Z125 8C:/Users/Daniel/Desktop/cse141lfinallab3/definitions.sv
+Z126 FC:/Users/Daniel/Desktop/cse141lfinallab3/definitions.sv
+L0 54
+R11
+r1
+31
+Z127 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/definitions.sv|
+R15
+Z128 !s108 1426879234.197000
+Z129 !s107 C:/Users/Daniel/Desktop/cse141lfinallab3/definitions.sv|
+!i10b 1
+!i103 1
+!s85 0
+!s101 -O0
+vexecuteTOmem
+R1
+Z130 DXx4 work 20 executeTOmem_sv_unit 0 22 >Onk:g<az0l9QmYMom2]:0
+Z131 VWm;@R4K4cB0EF<ofV06gT1
+r1
+31
+Z132 !s100 GUdfA;?U<bQ=OIk1nk=hW0
+Z133 ISd4[5[T3Sm[c;84H7dL?02
+Z134 !s105 executeTOmem_sv_unit
+S1
+R7
+Z135 w1426819446
+Z136 8C:/Users/Daniel/Desktop/cse141lfinallab3/executeTOmem.sv
+Z137 FC:/Users/Daniel/Desktop/cse141lfinallab3/executeTOmem.sv
+L0 3
+R11
+Z138 !s108 1426879239.994000
+Z139 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/executeTOmem.sv|
+Z140 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/executeTOmem.sv|
+R15
+Z141 nexecute@t@omem
+!s85 0
+!i10b 1
+!s101 -O0
+XexecuteTOmem_sv_unit
+R1
+Z142 V>Onk:g<az0l9QmYMom2]:0
+r1
+31
+Z143 !s100 o0<6PPe2=jg2i9aSk9JT<0
+Z144 I>Onk:g<az0l9QmYMom2]:0
+S1
+R7
+R34
+R136
+R137
+R19
+L1 54
+R11
+R138
+R139
+R140
+R15
+Z145 nexecute@t@omem_sv_unit
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vfetchTOdecode
+R1
+Z146 DXx4 work 21 fetchTOdecode_sv_unit 0 22 g_nz`Qcd^G[cK9ABic?ED3
+Z147 V7Y@`oV1U=;C<L[OT6f?Ae3
+r1
+31
+Z148 !s100 [YbaUa0>2_eY0k_m`T10:0
+Z149 I_PnFeOMAE0]iOom[]9QF91
+Z150 !s105 fetchTOdecode_sv_unit
+S1
+R7
+Z151 w1426878841
+Z152 8C:/Users/Daniel/Desktop/cse141lfinallab3/fetchTOdecode.sv
+Z153 FC:/Users/Daniel/Desktop/cse141lfinallab3/fetchTOdecode.sv
+L0 3
+R11
+Z154 !s108 1426879240.473000
+Z155 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/fetchTOdecode.sv|
+Z156 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/fetchTOdecode.sv|
+R15
+Z157 nfetch@t@odecode
+!s85 0
+!i10b 1
+!s101 -O0
+XfetchTOdecode_sv_unit
+R1
+Z158 Vg_nz`Qcd^G[cK9ABic?ED3
+r1
+31
+Z159 !s100 SO1?A<9Vjl=CI0TP1^l6O3
+Z160 Ig_nz`Qcd^G[cK9ABic?ED3
+S1
+R7
+R151
+R152
+R153
+R19
+L1 54
+R11
+R154
+R155
+R156
+R15
+Z161 nfetch@t@odecode_sv_unit
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vhazard_detection
+R1
+Z162 DXx4 work 24 hazard_detection_sv_unit 0 22 LI^FR@MZ@A5iaZD<aF22z3
+Z163 VSOLh[1hFi`e0b]jGe>VjR2
+r1
+31
+Z164 !s100 n6:2j1HjVkam6cOW3ClmT1
+Z165 I0NmoJ27gnV0ZUk]09385[1
+Z166 !s105 hazard_detection_sv_unit
+S1
+R7
+Z167 w1426832885
+Z168 8C:\Users\Daniel\Desktop\cse141lfinallab3\hazard_detection.sv
+Z169 FC:\Users\Daniel\Desktop\cse141lfinallab3\hazard_detection.sv
+L0 3
+R11
+Z170 !s108 1426834592.838000
+Z171 !s107 definitions.sv|C:\Users\Daniel\Desktop\cse141lfinallab3\hazard_detection.sv|
+Z172 !s90 -reportprogress|300|-work|work|-sv|C:\Users\Daniel\Desktop\cse141lfinallab3\hazard_detection.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xhazard_detection_sv_unit
+R1
+Z173 VD2bmJS`9jnS8MX4No6kh91
+r1
+31
+Z174 !s100 ]2@[@3;8e_<@DWSgMDkkk0
+Z175 ID2bmJS`9jnS8MX4No6kh91
+S1
+R7
+Z176 w1426836323
+Z177 8C:/Users/Daniel/Desktop/cse141lfinallab3/hazard_detection.sv
+Z178 FC:/Users/Daniel/Desktop/cse141lfinallab3/hazard_detection.sv
+R19
+L1 54
+R11
+Z179 !s108 1426879234.383000
+Z180 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/hazard_detection.sv|
+Z181 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/hazard_detection.sv|
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vhazard_flags
+R1
+Z182 DXx4 work 24 hazard_detection_sv_unit 0 22 D2bmJS`9jnS8MX4No6kh91
+Z183 VIDNm3`Qjb28gE?o9WlJDg1
+r1
+31
+Z184 !s100 H^EaGcOFaA@dCH_@hdLjB0
+Z185 IO;@0e<WHRV>4lDM]T=EMa2
+R166
+S1
+R7
+R176
+R177
+R178
+L0 3
+R11
+R179
+R180
+R181
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+vinstr_mem
+R1
+Z186 DXx4 work 17 instr_mem_sv_unit 0 22 jn_<>:m3`TSU01];EJQWJ0
+Z187 VFbL0l?mC^hD9I>mmSWaGQ0
+r1
+31
+Z188 !s100 mjI]d=zL5>:WFG0SLR]>20
+Z189 IkmE3:M8b3D[2^CO>BF9Tj3
+Z190 !s105 instr_mem_sv_unit
+S1
+R7
+Z191 w1426836452
+Z192 8C:/Users/Daniel/Desktop/cse141lfinallab3/instr_mem.sv
+Z193 FC:/Users/Daniel/Desktop/cse141lfinallab3/instr_mem.sv
+L0 5
+R11
+Z194 !s108 1426879234.715000
+Z195 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/instr_mem.sv|
+Z196 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/instr_mem.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xinstr_mem_sv_unit
+R1
+Z197 Vjn_<>:m3`TSU01];EJQWJ0
+r1
+31
+Z198 !s100 RNKPk=g8TbE7zW3R_J_6H0
+Z199 Ijn_<>:m3`TSU01];EJQWJ0
+S1
+R7
+R191
+R192
+R193
+R19
+L1 54
+R11
+R194
+R195
+R196
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+XmemoryTOwrite_sv_unit
+R1
+Z200 VFT0MMXIeZm]W>QTRj_4fi3
+r1
+!s85 0
+31
+!i10b 1
+Z201 !s100 NjjLZnfeHFK3XhQQ7TXP72
+Z202 IFT0MMXIeZm]W>QTRj_4fi3
+!i103 1
+S1
+R7
+Z203 w1426836569
+Z204 8C:/Users/Daniel/Desktop/cse141lfinallab3/memoryTOwrite.sv
+Z205 FC:/Users/Daniel/Desktop/cse141lfinallab3/memoryTOwrite.sv
+R19
+L1 54
+R11
+Z206 !s108 1426879240.712000
+Z207 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/memoryTOwrite.sv|
+Z208 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/memoryTOwrite.sv|
+!s101 -O0
+R15
+Z209 nmemory@t@owrite_sv_unit
+vmemTOwrite
+R1
+Z210 DXx4 work 21 memoryTOwrite_sv_unit 0 22 FT0MMXIeZm]W>QTRj_4fi3
+Z211 V;=<aS6e9;E_>:UNW_E0<Q3
+r1
+!s85 0
+31
+!i10b 1
+Z212 !s100 1b[N_PSZmEeGQN;GL`T`=3
+Z213 IT0CLfOZzNeI=]Gb9>B1HJ0
+Z214 !s105 memoryTOwrite_sv_unit
+S1
+R7
+R203
+R204
+R205
+L0 3
+R11
+R206
+R207
+R208
+!s101 -O0
+R15
+Z215 nmem@t@owrite
+vminer_tb
+R1
+Z216 DXx4 work 16 miner_tb_sv_unit 0 22 R^z=^]J9i[jPZh:zLTn7Y2
+Z217 VmUcjK`[BR2I4D=oC[X9C`0
+r1
+31
+Z218 !s100 :J@F5YKkzfGg>Me9jJ@IA1
+Z219 IhgnSX698Y=f=ZE2?jfjkz2
+Z220 !s105 miner_tb_sv_unit
+S1
+R7
+Z221 w1426833397
+Z222 8C:/Users/Daniel/Desktop/cse141lfinallab3/miner_tb.sv
+Z223 FC:/Users/Daniel/Desktop/cse141lfinallab3/miner_tb.sv
+L0 22
+R11
+Z224 !s108 1426879235.627000
+Z225 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/miner_tb.sv|
+Z226 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/miner_tb.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xminer_tb_sv_unit
+R1
+Z227 VR^z=^]J9i[jPZh:zLTn7Y2
+r1
+31
+Z228 !s100 F[cKCI`Q_R1W9U_`h5h0i3
+Z229 IR^z=^]J9i[jPZh:zLTn7Y2
+S1
+R7
+R34
+R222
+R223
+R19
+L1 54
+R11
+R224
+R225
+R226
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+Xnet_packet_logger_s_sv_unit
+R1
+Z230 VM;ZSn=F0ko1e@7O0Vbm1E2
+r1
+31
+Z231 !s100 oRbkGmOSiXO61z?hDl3kb3
+Z232 IM;ZSn=F0ko1e@7O0Vbm1E2
+S1
+R7
+R34
+Z233 8C:/Users/Daniel/Desktop/cse141lfinallab3/net_packet_logger_s.sv
+Z234 FC:/Users/Daniel/Desktop/cse141lfinallab3/net_packet_logger_s.sv
+R19
+L1 54
+R11
+Z235 !s108 1426879239.378000
+Z236 !s107 definitions.sv|C:/Users/Daniel/Desktop/cse141lfinallab3/net_packet_logger_s.sv|
+Z237 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/net_packet_logger_s.sv|
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vnetwork_packet_s_logger
+R1
+Z238 DXx4 work 27 net_packet_logger_s_sv_unit 0 22 M;ZSn=F0ko1e@7O0Vbm1E2
+Z239 VPlgif>=;4=jBTE<GHm7GV1
+r1
+31
+Z240 !s100 ofGo=LgVdJJMGi33C;^261
+Z241 IEC4koJFF?]jRZ]AD=QD1j0
+Z242 !s105 net_packet_logger_s_sv_unit
+S1
+R7
+R65
+R233
+R234
+L0 8
+R11
+R235
+R236
+R237
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+vreg_file
+R1
+Z243 !s100 A@Ql;?nO5ffaMm3846Vh_2
+Z244 IV?LRJkE6ZRLSB5I@ofGB11
+Z245 VYDnI]kJo2bNgi^gQ8HaAN3
+Z246 !s105 reg_file_sv_unit
+S1
+R7
+Z247 w1426837118
+Z248 8C:/Users/Daniel/Desktop/cse141lfinallab3/reg_file.sv
+Z249 FC:/Users/Daniel/Desktop/cse141lfinallab3/reg_file.sv
+L0 1
+R11
+r1
+31
+Z250 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daniel/Desktop/cse141lfinallab3/reg_file.sv|
+R15
+Z251 !s108 1426879239.727000
+Z252 !s107 C:/Users/Daniel/Desktop/cse141lfinallab3/reg_file.sv|
+!i10b 1
+!s85 0
+!s101 -O0

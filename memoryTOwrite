@@ -1,0 +1,19 @@
+`include "definitions.sv"
+
+module memoryTOwrite
+(
+	 input logic clk,
+	 input logic stall,
+	 input memoryTOwrite_s memoryTOwrite_s_i,
+	 output memoryTOwrite_s memoryTOwrite_s_o
+);
+
+always_ff @(posedge clk) //enable SystemVerilog to make always_ff work!
+begin
+	if(stall)
+		memoryTOwrite_s_o <= memoryTOwrite_s_o;
+	else
+		memoryTOwrite_s_o <= memoryTOwrite_s_i;
+end
+
+endmodule
